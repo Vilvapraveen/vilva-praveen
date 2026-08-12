@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi, i'm vilva🌟<br><br>💻 Web Developer | ⚛️ React | 🛢️ MySQL |☕ Java<br>🚀 I create themed desktop apps to stay consistent<br>🔐 Focused on security, performance & best practices<br>📱 Responsive Design<br><br>
+hi, i'm vilva🌟<br><br>💻 Web Developer | ⚛️ React | 🛢️ MySQL |☕ Java<br> 🚀 I create themed desktop apps to stay consistent<br>🔐 Focused on security, performance & best practices<br>📱 Responsive Design<br><br>
 
 
 # 💻 Tech Stack:
